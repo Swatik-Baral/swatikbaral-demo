@@ -1,5 +1,4 @@
 # swatikbaral-demo
 This is my first Repository.
 <br>
-Author-Swatik Baral
-
+Author-Swatik Baral (Cuttack)
